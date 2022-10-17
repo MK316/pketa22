@@ -14,13 +14,13 @@ As we all are aware, the 4th Industrial Revolution brings a fundamental change i
 
 ## 2. Presentation materials
 
-| Keywords  | links  | DIY (.ipynb)  |
-|:---|:---|:---|
-| Presentation ppt  | [file to download]()  |   |
-| Google Colab  | [colab](https://colab.research.google.com/)  |   |
-| Github  | [github](https://github.com/)  |   |
-| gTTS  | [gTTS](https://pypi.org/project/gTTS/)  |   |
-| | | |
+| | Keywords  | links  | DIY (.ipynb)  |
+|:--:|:---|:---|:---|
+|1 | Presentation ppt  | [file to download]()  |   |
+|2 | Google Colab  | [colab](https://colab.research.google.com/)  |   |
+|3 | Github  | [github](https://github.com/)  |   |
+|4 | gTTS  | [gTTS](https://pypi.org/project/gTTS/)  |   |
+|5 | | | |
 
 
 
