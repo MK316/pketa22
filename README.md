@@ -24,7 +24,8 @@ As we all are aware, the 4th Industrial Revolution brings a fundamental change i
 |5 | PyPI (Python Package Index)| [PyPI](https://pypi.org/) | |
 |6| Markdown language | [Intro](https://colab.research.google.com/notebooks/markdown_guide.ipynb), [Emoji](https://gist.github.com/rxaviers/7360908) | |
 | | {NLTK} | [nltk](https://www.nltk.org/)| | 
-| | Demo | [lessons](https://github.com/MK316/pketa22/blob/main/Demo_lessons.ipynb)| |
+| | Demo | |[lessons](https://github.com/MK316/pketa22/blob/main/Demo_lessons.ipynb)|
+
 
 
 
