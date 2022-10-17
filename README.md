@@ -18,7 +18,9 @@ By sharing my learning experience of Python (and R) and some of my coding applic
 
 ## 2. Presentation materials
 
-|A | B |C|  
-|==|==|==|
-|A | B|C|  
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
