@@ -8,7 +8,7 @@
 * Speaker: Miran Kim (Associate Professor, Dept. of English Education, GNU)
 * Time: 3:50 ~ 4:50 PM
 
-## 1. About the talk:
+## 1. Abstract
 
 As we all are aware, the 4th Industrial Revolution brings a fundamental change in the way we learn, teach, and communicate one another as well as in how we access to data and knowledge. To cope with the current digital transformation, it can be also helpful for language researchers and educators to understand what is “coding (with programming language)”, why it is so emphasized in educational environments, and what we can do with it for our career. In this direction, this lecture will introduce two open-source programming languages, Python and R, and their applications in language research and education.  
 
@@ -16,4 +16,9 @@ According to the R Project webpage (r-project.org), “R is a language and envir
 
 By sharing my learning experience of Python (and R) and some of my coding applications implemented to assist English language learners, it is hoped that this lecture can get audience’s attention to these amazing tools for language research and education. 
 
+## 2. Presentation materials
+
+
+|==|==|==|
+|A | B|C|  
 
