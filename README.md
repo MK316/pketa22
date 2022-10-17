@@ -4,7 +4,7 @@
 
 
 ## 🔹 Special session
-* Title: Introducing Python and R for Language research and Education
+* Title: _Introducing Python and R for Language research and Education_
 * Speaker: Miran Kim (Associate Professor, Dept. of English Education, GNU)
 * Time: 3:50 ~ 4:50 PM
 
