@@ -8,7 +8,7 @@
 * Speaker: Miran Kim (Associate Professor, Dept. of English Education, GNU)
 * Time: 3:50 ~ 4:50 PM
 
-## About the talk:
+## 1. About the talk:
 
 
 
