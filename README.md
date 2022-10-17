@@ -15,8 +15,10 @@ As we all are aware, the 4th Industrial Revolution brings a fundamental change i
 ## 2. Presentation materials
 
 | Keywords  | Colab link  | Refereces  |
-|---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|:---|:---|:---|
+| Presentation ppt  |   |   |
+| Google Colab  |   |   |
+| Github  |   |   |
+| gTTS  |   |   |
+
 
