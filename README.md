@@ -18,7 +18,9 @@ As we all are aware, the 4th Industrial Revolution brings a fundamental change i
 |:---|:---|:---|
 | Presentation ppt  | [file to download]()  |   |
 | Google Colab  | [colab](https://colab.research.google.com/)  |   |
-| Github  |   |   |
-| gTTS  |   |   |
+| Github  | [github](https://github.com/)  |   |
+| gTTS  | [gTTS](https://pypi.org/project/gTTS/)  |   |
+| | | |
+
 
 
