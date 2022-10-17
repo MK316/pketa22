@@ -14,7 +14,7 @@ As we all are aware, the 4th Industrial Revolution brings a fundamental change i
 
 ## 2. Presentation materials
 
-| Keywords  | links  | Refereces  |
+| Keywords  | links  | DIY (.ipynb)  |
 |:---|:---|:---|
 | Presentation ppt  | [file to download]()  |   |
 | Google Colab  | [colab](https://colab.research.google.com/)  |   |
