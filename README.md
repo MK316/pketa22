@@ -24,10 +24,11 @@ As we all are aware, the 4th Industrial Revolution brings a fundamental change i
 |5 | PyPI (Python Package Index)| [PyPI](https://pypi.org/) | |
 |6| Markdown language | [Intro](https://colab.research.google.com/notebooks/markdown_guide.ipynb), [Emoji](https://gist.github.com/rxaviers/7360908) | |
 |7| {NLTK} | [nltk](https://www.nltk.org/)| | 
-|8| Demo1 | |[lessons](https://github.com/MK316/pketa22/blob/main/Demo_lessons.ipynb)|
-|9| Demo2 | |gTTS: [Phonetics](https://github.com/MK316/pketa22/blob/main/Demo_phonetics.ipynb)|
-|10| Demo3 | |[Summary AI](https://github.com/MK316/workshop22/blob/main/Demo02_Summarization.ipynb)|
-|11| Demo4 | |[Bedtime story reading](https://github.com/MK316/applications/blob/main/Bedtimestory_tts.ipynb)|  
+|8| Demo1 | Vocabulary |[lessons](https://github.com/MK316/pketa22/blob/main/Demo_lessons.ipynb)|
+|9| Demo2 | Phonetics |[Sound transcription](https://github.com/MK316/pketa22/blob/main/Demo_phonetics.ipynb)|
+|10| Demo3 | Summarization |[Summary AI](https://github.com/MK316/workshop22/blob/main/Demo02_Summarization.ipynb)|
+|11| Demo4 | Text reading with gTTS |[Bedtime story reading](https://github.com/MK316/applications/blob/main/Bedtimestory_tts.ipynb)|  
+|12| Demo4 | Oxford 3K vocabulary (sound) | [Voca3K](https://github.com/MK316/applications/blob/main/Oxford3K.ipynb)|
 
 
 
