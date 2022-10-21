@@ -26,8 +26,8 @@ As we all are aware, the 4th Industrial Revolution brings a fundamental change i
 | | {NLTK} | [nltk](https://www.nltk.org/)| | 
 | | Demo1 | |[lessons](https://github.com/MK316/pketa22/blob/main/Demo_lessons.ipynb)|
 | | Demo2 | |gTTS: [Phonetics](https://github.com/MK316/pketa22/blob/main/Demo_phonetics.ipynb)|
-| | Demo3 | |[Demo2]|
-
+| | Demo3 | |[Summary AI](https://github.com/MK316/workshop22/blob/main/Demo02_Summarization.ipynb)|
+| | Demo4 | |[Bedtime story reading](https://github.com/MK316/applications/blob/main/Bedtimestory_tts.ipynb)|  
 
 
 
