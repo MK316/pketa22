@@ -18,7 +18,7 @@ As we all are aware, the 4th Industrial Revolution brings a fundamental change i
 | | Keywords  | (File or web) links  | DIY (.ipynb)  |
 |:--:|:---|:---|:---|
 |1 | Presentation ppt  | [file to download](https://github.com/MK316/pketa22/blob/main/data/pketa22_ss.pdf)  |   |
-|2 | Google Colab  | [colab](https://colab.research.google.com/){target="_blank"}  |   |
+|2 | Google Colab  | [colab](https://colab.research.google.com/)  |   |
 |3 | Github  | [github](https://github.com/)  |   |
 |4 | {gTTS} (Google Text-to-Speech)  | [gTTS](https://pypi.org/project/gTTS/)  |   |
 |5 | PyPI (Python Package Index)| [PyPI](https://pypi.org/) | |
